@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "App2WebHandoff"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "Resume in-app web browsing in the default web-browser of the continuing platform adopting handoff."
   s.description  = <<-DESC
   # Native App to Web Browser Handoff
@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
                    DESC
 
   s.homepage     = "https://github.com/intelygenz/App2WebHandoff"
-  s.screenshots  = "https://raw.githubusercontent.com/intelygenz/App2WebHandoff/master/screenshot_1.jpg", "https://raw.githubusercontent.com/intelygenz/App2WebHandoff/master/screenshot_2.jpg"
+  s.screenshots  = "https://raw.githubusercontent.com/intelygenz/App2WebHandoff/master/screenshot.gif", "https://raw.githubusercontent.com/intelygenz/App2WebHandoff/master/screenshot_2.jpg", "https://raw.githubusercontent.com/intelygenz/App2WebHandoff/master/screenshot_1.jpg"
   s.license      = "MIT"
 
   s.authors            = { "Alex Rupérez" => "alejandro.ruperez@intelygenz.com" }

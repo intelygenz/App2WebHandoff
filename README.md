@@ -6,10 +6,11 @@
 [![Platform](https://img.shields.io/cocoapods/p/App2WebHandoff.svg?style=flat)](http://cocoapods.org/pods/App2WebHandoff)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
+![App2WebHandoff Screenshot 2](https://raw.githubusercontent.com/intelygenz/App2WebHandoff/master/screenshot_2.jpg)
+
 Resume in-app web browsing in the default web-browser of the continuing platform adopting handoff.
 
-![App2WebHandoff Screenshot 1](https://raw.githubusercontent.com/intelygenz/App2WebHandoff/master/screenshot_1.jpg)
-![App2WebHandoff Screenshot 2](https://raw.githubusercontent.com/intelygenz/App2WebHandoff/master/screenshot_2.jpg)
+![App2WebHandoff Screenshot](https://raw.githubusercontent.com/intelygenz/App2WebHandoff/master/screenshot.gif)
 
 ## Installation
 
