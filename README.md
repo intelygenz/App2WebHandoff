@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/cocoapods/l/App2WebHandoff.svg?style=flat)](http://cocoapods.org/pods/App2WebHandoff)
 [![Platform](https://img.shields.io/cocoapods/p/App2WebHandoff.svg?style=flat)](http://cocoapods.org/pods/App2WebHandoff)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-[![Swift Package Manager compatible](https://img.shields.io/badge/SPM-compatible-4BC51D.svg?style=flat)](https://swift.org/package-manager)
 
 Resume in-app web browsing in the default web-browser of the continuing platform adopting handoff.
 
@@ -20,10 +19,6 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod "App2WebHandoff"
 ```
-
-#### Or you can install it with [Swift Package Manager](https://swift.org/package-manager):
-
-    .Package(url: "ssh://git@github.com:intelygenz/App2WebHandoff.git", versions: Version(1,0,1)..<Version(2,0,0)),
 
 #### Or you can install it with [Carthage](https://github.com/Carthage/Carthage):
 
