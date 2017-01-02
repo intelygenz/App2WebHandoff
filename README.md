@@ -12,6 +12,11 @@ Resume in-app web browsing in the default web-browser of the continuing platform
 
 ![App2WebHandoff Screenshot](https://raw.githubusercontent.com/intelygenz/App2WebHandoff/master/screenshot.gif)
 
+It works with:
+* UIWebView
+* WKWebView
+* SFSafariViewController
+
 ## Installation
 
 App2WebHandoff is available through [CocoaPods](http://cocoapods.org). To install
