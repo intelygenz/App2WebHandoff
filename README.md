@@ -1,6 +1,6 @@
 # Native App to Web Browser Handoff
 
-[![Twitter](http://img.shields.io/badge/contact-@intelygenz-0FABFF.svg?style=flat)](http://twitter.com/intelygenz)
+[![Twitter](https://img.shields.io/badge/contact-@intelygenz-0FABFF.svg?style=flat)](http://twitter.com/intelygenz)
 [![Version](https://img.shields.io/cocoapods/v/App2WebHandoff.svg?style=flat)](http://cocoapods.org/pods/App2WebHandoff)
 [![License](https://img.shields.io/cocoapods/l/App2WebHandoff.svg?style=flat)](http://cocoapods.org/pods/App2WebHandoff)
 [![Platform](https://img.shields.io/cocoapods/p/App2WebHandoff.svg?style=flat)](http://cocoapods.org/pods/App2WebHandoff)
