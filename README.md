@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/App2WebHandoff.svg?style=flat)](http://cocoapods.org/pods/App2WebHandoff)
 [![Platform](https://img.shields.io/cocoapods/p/App2WebHandoff.svg?style=flat)](http://cocoapods.org/pods/App2WebHandoff)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![Swift Package Manager Compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-4BC51D.svg?style=flat)](https://github.com/apple/swift-package-manager)
+[![Build Status](https://travis-ci.org/intelygenz/Kommander-iOS.svg?branch=master)](https://travis-ci.org/intelygenz/Kommander-iOS)
 
 ![App2WebHandoff Screenshot 2](https://raw.githubusercontent.com/intelygenz/App2WebHandoff/master/screenshot_2.jpg)
 
@@ -28,7 +30,17 @@ pod "App2WebHandoff"
 
 #### Or you can install it with [Carthage](https://github.com/Carthage/Carthage):
 
-    github "intelygenz/App2WebHandoff"
+```ogdl
+github "intelygenz/App2WebHandoff"
+```
+
+#### Or install it with [Swift Package Manager](https://swift.org/package-manager/):
+
+```swift
+dependencies: [
+    .Package(url: "https://github.com/intelygenz/App2WebHandoff.git")
+]
+```
 
 ## Etc.
 
