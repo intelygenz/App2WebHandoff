@@ -7,6 +7,7 @@
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![Swift Package Manager Compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-4BC51D.svg?style=flat)](https://github.com/apple/swift-package-manager)
 [![Build Status](https://travis-ci.org/intelygenz/App2WebHandoff.svg?branch=master)](https://travis-ci.org/intelygenz/App2WebHandoff)
+[![Code Coverage](https://codecov.io/gh/intelygenz/App2WebHandoff/branch/master/graph/badge.svg)](https://codecov.io/gh/intelygenz/App2WebHandoff)
 
 ![App2WebHandoff Screenshot 2](https://raw.githubusercontent.com/intelygenz/App2WebHandoff/master/screenshot_2.jpg)
 
