@@ -8,6 +8,7 @@
 [![Swift Package Manager Compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-4BC51D.svg?style=flat)](https://github.com/apple/swift-package-manager)
 [![Build Status](https://travis-ci.org/intelygenz/App2WebHandoff.svg?branch=master)](https://travis-ci.org/intelygenz/App2WebHandoff)
 [![Code Coverage](https://codecov.io/gh/intelygenz/App2WebHandoff/branch/master/graph/badge.svg)](https://codecov.io/gh/intelygenz/App2WebHandoff)
+[![codebeat badge](https://codebeat.co/badges/c96dc209-efc0-47af-a056-d4a2fccee008)](https://codebeat.co/projects/github-com-intelygenz-app2webhandoff-master)
 
 ![App2WebHandoff Screenshot 2](https://raw.githubusercontent.com/intelygenz/App2WebHandoff/master/screenshot_2.jpg)
 

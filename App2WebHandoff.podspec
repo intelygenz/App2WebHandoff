@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "App2WebHandoff"
-  s.version      = "1.0.3"
+  s.version      = "1.0.4"
   s.summary      = "Resume in-app web browsing in the default web-browser of the continuing platform adopting handoff."
   s.description  = <<-DESC
   # Native App to Web Browser Handoff
