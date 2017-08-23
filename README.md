@@ -30,6 +30,12 @@ it, simply add the following line to your Podfile:
 pod "App2WebHandoff"
 ```
 
+For Swift 3 compatibility use:
+
+```ruby
+pod 'App2WebHandoff', '~> 1.0'
+```
+
 #### Or you can install it with [Carthage](https://github.com/Carthage/Carthage):
 
 ```ogdl
